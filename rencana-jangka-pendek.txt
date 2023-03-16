@@ -1,4 +1,7 @@
 Belajar programming 
+php
 Belajar programming
+java script
 Belajar programming
+laravel
 Belajar struktur data
